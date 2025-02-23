@@ -273,17 +273,90 @@ driving()
 trasportatio()
 
 
+---------------------------------------
+Day 5 :
+Variable -
+
+1. local var
+
+	var defined of a method
+	
+2. instance var
+	defined in class
+	
+3. static var
+	- defined in class with static keyword
+	- class level var. 
+	- access with classname
+	- static var. will maintain one copy only
+
+
+--------------------------------------------------
+day 6 : The Last day of Logic Building
+--------------------------------------------------
+access modifiers in java : 
+
+1. public 
+2. protected
+3. private
+4. default
+
+
+---------------------------
+discussion:
+bank mgmt. system
+
+
+user 
+properties :
+
+	private name , add , mob, addhar, balance
+
+behaviour :
+	
+	withdrwals(), deposits()
+========
+psvm(String[]) -----
+
+
+m - method name, entry point of your java code,
+	can i overload main ?
+		- main(int)
+v - RT 
+	psim(int )
+
+s - 
+
+p - 
+
+
+String[]
+---------------------------------
+
+String class : obj are stored in heap 
+
+- is class
+- DT
+- ref. var
+- immutable 
+
+
+String constant pool
+
+
+syntax ; 
+	String s = "ABC";
+	String s1 = new String();
 
 
 
 
+---------------------------------------------
 
 
+why array index start with 0 ?
 
-
-
-
-
+What is Bitwise & operator ?
 
 
 
